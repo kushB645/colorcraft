@@ -78,8 +78,8 @@ _Add screenshots of your UI here_
 
 ## 📬 Contact  
 
-- 💻 GitHub: https://github.com/your-username  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💻 GitHub: https://github.com/kushB645 
+- 💼 LinkedIn: https://linkedin.com/in/kushbhardwaj01 
 
 ---
 
